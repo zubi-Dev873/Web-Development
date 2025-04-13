@@ -1,0 +1,13 @@
+.round-button{
+    padding: 0 12px;
+    border-radius: 50px;
+    background-color: transparent;
+    color: black;
+    border: 2px solid blueviolet;
+    font-size: 18px;
+    font-weight: bolder;
+
+    
+}
+
+
